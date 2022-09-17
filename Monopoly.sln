@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monopoly", "Monopoly\Monopoly.csproj", "{2637425F-7445-4BB3-969A-41F7D11C8194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit tests", "NUnit tests\NUnit tests.csproj", "{6C911301-44A9-4232-AF97-A48745273EA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2637425F-7445-4BB3-969A-41F7D11C8194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2637425F-7445-4BB3-969A-41F7D11C8194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2637425F-7445-4BB3-969A-41F7D11C8194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2637425F-7445-4BB3-969A-41F7D11C8194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C911301-44A9-4232-AF97-A48745273EA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C911301-44A9-4232-AF97-A48745273EA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C911301-44A9-4232-AF97-A48745273EA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C911301-44A9-4232-AF97-A48745273EA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4142FAFB-843C-47CD-AC10-037AE3B80861}
+	EndGlobalSection
+EndGlobal
